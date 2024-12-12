@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm TACHIBANA Ione 👋
+<div align="center">
+    <div height="320px">
+        <img src="https://github.com/tachibanaione.png" height="270px" width="auto">
+    </div>
+    <br />
+    <a href="https://tachibanai.one"><img src = "https://img.shields.io/badge/Website-tachibanai.one-royalblue"></a>
+    <a href="https://x.com/TachibanaIone"><img src="https://img.shields.io/badge/@TachibanaIone-black?logo=x&logoColor=white"/></a>
+    <a href="https://skeb.jp/@TachibanaIone"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fd1-rest-api.tachibanaione.workers.dev%2Fstatus&query=%24.skeb&label=Skeb&color=257976&link=https%3A%2F%2Fskeb.jp%2F%40TachibanaIone" /></a>
+</div>
 
-<!--
-**TachibanaIone/TachibanaIone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Languages spoken: Japanese(Native), English(Technically can)
+- Call me "Ione" or "Ione-chan"
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TachibanaIone&layout=compact)
